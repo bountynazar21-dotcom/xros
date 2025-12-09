@@ -1,0 +1,9 @@
+.env
+*.env
+credentials.json
+bot.db
+
+__pycache__/
+build/
+dist/
+data/
